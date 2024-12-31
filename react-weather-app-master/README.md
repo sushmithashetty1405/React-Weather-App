@@ -1,6 +1,8 @@
 # React Weather App 
 
 ![image](https://github.com/user-attachments/assets/1c2e4c5b-d742-4a71-b276-774aed1c4ae3)
+![Uploading image.png…]()
+
 
 this website gives the information about the weather report of any cities
 
