@@ -1,12 +1,9 @@
-# React Weather App - ReactJS Projects
+# React Weather App 
 
 ![](weather.gif)
+this website gives the information about the weather report of any cities
 
-### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
 
-### Full development Tutorial 
-[Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
@@ -26,13 +23,9 @@ https://openweathermap.org/current
 * `axios`
 * `react-scripts`
 
-### Whom do I talk to? ###
 
-* AyushK : [The Indian Dev](https://www.instagram.com/theindiandev)
 
-### How can I appreciate this repo? ###
 
-* By giving this repo a 🌟
-* By Subscribing : [The Indian Dev](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA) at Youtube
-* By Following : [The Indian Dev](https://www.instagram.com/theindiandev) at Instagram
+
+
 
